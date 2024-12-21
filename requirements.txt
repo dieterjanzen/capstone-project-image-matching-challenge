@@ -6,6 +6,6 @@ scikit-learn==1.1.1
 scikit-image==0.19.3
 opencv-python==4.6.0.66
 kornia==0.6.6
-dash==2.6.0
+dash==2.18.2
 plotly==5.9.0
 torch==1.12.0
